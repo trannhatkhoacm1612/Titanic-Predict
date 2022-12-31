@@ -7,11 +7,13 @@ Using Logistic - Regression to predict people will dead or alive base on suitabl
 # # Overall
 
 Different from Linear - Regression that predict a particular value , Logistic - Regression usually return two type of value: True(0) or False(1)
+
 ![feature-image](https://api.asm.skype.com/v1/objects/0-sa-d7-3a750a196e5c7e81d0e976ef7eb2c1b7/views/imgpsh_fullsize_anim)
 
 # # Mathematics basics
 
 Using Sigmoid - function because of it's classify nature (Z is Linear function)
+
 ![feature-image](https://qph.cf2.quoracdn.net/main-qimg-6ab7369356c16f17ac39fbb83d5d56c1)
 
 Reason why we choose this function is:
@@ -27,6 +29,7 @@ Else : Set it False (1)
 # Introduce 
 
 ![feature-image](https://cdn.britannica.com/72/153172-050-EB2F2D95/Titanic.jpg)
+
 There is a problem in Kangle ( https://www.kaggle.com/c/titanic?utm_medium=email&utm_source=gamma&utm_campaign=gamma-onboarding )
 You can read the problem from this link and download the dataset to train and solve
 
