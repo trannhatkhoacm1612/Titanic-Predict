@@ -1,6 +1,6 @@
 # Titanic-Predict
 
-Using Logistic - Regression to predict people will dead or alive base on suitable data
+Using Logistic - Regression to predict people will dead or alive base on suitable data ( Refer from many sources )
 
 # Logistic - Regression
 
