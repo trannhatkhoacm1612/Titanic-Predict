@@ -40,4 +40,5 @@ We have a dataset about people who in The Titanic. So base on this data, we will
 input : dataframe -> output: Alive(0) or Dead(0)
 
 # Method
-We can code by yourself but I just Scikit - learn modulo to solve this problem
+1. Preprocessor
+2. We can code by yourself but I just Scikit - learn modulo to solve this problem
