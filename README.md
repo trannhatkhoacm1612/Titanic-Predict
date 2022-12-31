@@ -8,7 +8,7 @@ Using Logistic - Regression to predict people will dead or alive base on suitabl
 
 Different from Linear - Regression that predict a particular value , Logistic - Regression usually return two type of value: True(0) or False(1)
 
-![feature-image](https://api.asm.skype.com/v1/objects/0-sa-d7-3a750a196e5c7e81d0e976ef7eb2c1b7/views/imgpsh_fullsize_anim)
+![feature-image](https://miro.medium.com/max/875/1*cgdHP--EdMXJDwCcZSUGfw.png)
 
 # # Mathematics basics
 
